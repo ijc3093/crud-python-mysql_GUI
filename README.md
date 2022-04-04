@@ -5,4 +5,4 @@ crud-python-mysql_GUI
 
 # Happy Christmas!
 
-![Happy Christmas](screen.png)
+![Happy Christmas](https://www.foxinfotech.in/wp-content/uploads/2019/12/Happy-Christmas.png)
