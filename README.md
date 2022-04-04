@@ -1,4 +1,21 @@
+# CRUD Python
+
+- Simple CRUD in Python using a MySQL database connection to manage records and store data.
+
+- Progress -> <strong>100%</strong>
+
+- Python 3.8.0 </br>
+- Coding: -&lowast;- coding: utf-8 -&lowast;- </br>
+- en-US </br>
+
+<strong>Python modules</strong>
+
+- pip install pymysql </br>
+- pip install csv
+
 # Mysql
+- pip install pymysql
+- pip install csv
 - Install using command: pip install mysql-connector-python
 - Check employees.sql in database folder
 - Open terminal on your macbook and type command: PATH=$PATH:/usr/local/mysql/bin and press "enter"
