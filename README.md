@@ -1,8 +1,5 @@
 # crud-python-mysql_GUI
 crud-python-mysql_GUI
-![Screenshot](images/screen.png)
 
-
-# Happy Christmas!
-
-![Happy Christmas]()
+# Screen
+![Screenshot](https://github.com/ijc3093/crud-python-mysql_GUI/blob/master/images/Screen.png)
