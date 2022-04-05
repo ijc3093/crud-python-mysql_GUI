@@ -27,7 +27,7 @@
 - Make sure that database name called employees should be existed in database system.
 - leaving the mysql running......
 
-#CRUD
+# CRUD
 - VIEW DATA LIST
 - DATA SEARCH
 - ADD NEW DATA
