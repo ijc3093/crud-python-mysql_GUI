@@ -27,6 +27,15 @@
 - Make sure that database name called employees should be existed in database system.
 - leaving the mysql running......
 
+#CRUD
+- VIEW DATA LIST
+- DATA SEARCH
+- ADD NEW DATA
+- CHANGE DATA
+- DELETE DATA
+- EXPORT TABLE
+- IMPORT TABLE
+
 - Open this project in Visual Studio Code. Enjoy it as well. 
 # Screen
 ![Screenshot](https://github.com/ijc3093/crud-python-mysql_GUI/blob/master/images/Screen.png)
